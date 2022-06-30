@@ -1,2 +1,2 @@
-# project template
-Template repository for a SEA:ME (OER) project.
+# DES-CANMatrix
+A Distributed Embedded Systems Module Project: CAN Matrix or K-Matrix.
